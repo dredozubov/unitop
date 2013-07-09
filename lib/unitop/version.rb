@@ -1,3 +1,3 @@
-module Unitop
-  VERSION = "0.0.1"
+module Unitop::Version
+  VERSION = '0.0.1'
 end
